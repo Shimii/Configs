@@ -15,6 +15,13 @@
             "keys": "ctrl+v"
         },
         {
+            "command": 
+            {
+                "action": "closeOtherTabs"
+            },
+            "keys": "ctrl+shift+f4"
+        },
+        {
             "command": "find",
             "keys": "ctrl+shift+f"
         },
